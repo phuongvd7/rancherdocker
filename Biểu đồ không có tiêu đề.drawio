@@ -1,35 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T02:42:05.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="y0J1YYxTzJYr33GIvTy7" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T09:19:48.591Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PS1OoIJYxybUvZ8Qxi6T" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1070" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="2iq-oXpcsevZ4T9gPfEe-0" value="phuongvd-gitlab:&lt;br&gt;192.168.99.124" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2iq-oXpcsevZ4T9gPfEe-0" value="phuongvd-gitlab:&lt;br&gt;192.168.99.124" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2iq-oXpcsevZ4T9gPfEe-1" value="phuongvd-rancher:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;192.168.99.125" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2iq-oXpcsevZ4T9gPfEe-1" value="phuongvd-rancher:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;192.168.99.125" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2iq-oXpcsevZ4T9gPfEe-2" value="phuongvd-cicd:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;192.168.99.126" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2iq-oXpcsevZ4T9gPfEe-2" value="phuongvd-cicd:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;192.168.99.126" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2iq-oXpcsevZ4T9gPfEe-9" value="phuongvd-master1:&lt;br&gt;192.168.99.127" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2iq-oXpcsevZ4T9gPfEe-9" value="phuongvd-master1:&lt;br&gt;192.168.99.127" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2iq-oXpcsevZ4T9gPfEe-10" value="phuongvd-master2:&lt;br&gt;192.168.99.128" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2iq-oXpcsevZ4T9gPfEe-10" value="phuongvd-master2:&lt;br&gt;192.168.99.128" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2iq-oXpcsevZ4T9gPfEe-11" value="phuongvd-master3:&lt;br&gt;192.168.99.129" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2iq-oXpcsevZ4T9gPfEe-11" value="phuongvd-master3:&lt;br&gt;192.168.99.129" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2iq-oXpcsevZ4T9gPfEe-12" value="phuongvd-worker1:&lt;br&gt;192.168.99.131" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2iq-oXpcsevZ4T9gPfEe-12" value="phuongvd-worker1:&lt;br&gt;192.168.99.131" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2iq-oXpcsevZ4T9gPfEe-13" value="phuongvd-worker2:&lt;br&gt;192.168.99.132" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2iq-oXpcsevZ4T9gPfEe-13" value="phuongvd-worker2:&lt;br&gt;192.168.99.132" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2iq-oXpcsevZ4T9gPfEe-14" value="phuongvd-worker3:&lt;br&gt;192.168.99.133" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2iq-oXpcsevZ4T9gPfEe-14" value="phuongvd-worker3:&lt;br&gt;192.168.99.133" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45c1MGV2Ajd0I6g9sdkM-0" value="phuongvd-jenkins:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;192.168.99.134" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45c1MGV2Ajd0I6g9sdkM-1" value="phuongvd-slave:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;192.168.99.134" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
